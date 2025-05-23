@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Setup
 
 1. Clone the repository:
-   git clone https://your-repo-url.git
+   git clone https://github.com/Kenneth-Anthony-G/coffee-shop.git
    cd coffee_shop
 
 2. Install dependencies:
