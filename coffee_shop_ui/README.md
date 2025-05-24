@@ -1,9 +1,26 @@
 # ☕ Coffee Shop
 
 Coffee Shop is a Flutter UI project created for practice and self-improvement.  
-The design was inspired by a coffee shop interface found on Dribbble, and the goal was to faithfully reproduce the user interface to enhance my Flutter development skills.
+The design was inspired by a coffee shop interface found on Dribbble, and the goal was to faithfully reproduce the user interface to enhance my Flutter development skills.  
+🔗 Design inspiration: [Dribbble coffe shop UI](https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode)  
+📸 Coffee images used in the app were sourced from [Unsplash](https://unsplash.com).
 
 ---
+
+
+## 🎥 Preview
+
+![Coffee Shop Preview](assets/screenshots/coffee_shop_preview.gif)
+
+---
+
+## 📸 Screenshots
+
+| Home Screen | Product Details                              |
+|-------------|------------------|
+| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/detail.png) |
+
+
 
 
 ## 🚀 Features
