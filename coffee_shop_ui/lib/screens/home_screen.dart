@@ -112,15 +112,13 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             SizedBox(
-              height: 290,
+              height: 280,
               child: ListView.builder(
                 scrollDirection: Axis.horizontal,
                 itemCount: coffees.length,
                 itemBuilder: (context, index) {
                   Coffee c = coffees[index];
-                  return Column(
-                  children: [CoffeeCard(coffee : c)],
-                );
+                  return CoffeeCard(coffee : c);
                 },
               ),
             ),

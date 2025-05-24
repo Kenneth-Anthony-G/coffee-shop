@@ -24,7 +24,7 @@ class CoffeeCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 SizedBox(
-                    height: 150,
+                    height: 140,
                     width: double.infinity,
                     child: ClipRRect(
                         borderRadius: BorderRadius.circular(12),
